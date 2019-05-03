@@ -1,0 +1,13 @@
+{
+  "name": "fake-database-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lpbaiser/fake-database-generator.git",
+  "author": "Leonardo Baiser <lpbaiser@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "readline-sync": "^1.4.9",
+    "uuid": "^3.3.2"
+  }
+}
