@@ -1,4 +1,5 @@
 const faker = require('faker');
+faker.locale = 'pt_BR';
 const uuid = require('uuid/v4');
 const readlineSync = require('readline-sync');
 const {
